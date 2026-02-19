@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
