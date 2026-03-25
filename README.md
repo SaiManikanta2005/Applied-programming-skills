@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -98,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
