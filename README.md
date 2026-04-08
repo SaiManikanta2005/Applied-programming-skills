@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Merge Sort
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
