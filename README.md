@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -159,4 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
