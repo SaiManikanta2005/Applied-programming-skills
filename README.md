@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 ## Matrix
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
