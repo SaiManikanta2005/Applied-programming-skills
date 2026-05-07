@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0198-house-robber) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
