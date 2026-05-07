@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/2235-add-two-integers) |
 ## Divide and Conquer
@@ -219,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
