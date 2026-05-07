@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
