@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -174,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
