@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0474-ones-and-zeroes](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
+| [0474-ones-and-zeroes](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0474-ones-and-zeroes) |
 | [1763-longest-nice-substring](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/1763-longest-nice-substring) |
 ## Binary Search Tree
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
