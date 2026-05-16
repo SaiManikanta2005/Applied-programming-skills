@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SaiManikanta2005/Applied-programming-skills/tree/master/0078-subsets) |
